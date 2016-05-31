@@ -1,0 +1,6 @@
+framework module RWSBounceButton {
+  umbrella header "RWSBounceButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

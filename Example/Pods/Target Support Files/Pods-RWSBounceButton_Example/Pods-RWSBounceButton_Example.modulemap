@@ -1,0 +1,6 @@
+framework module Pods_RWSBounceButton_Example {
+  umbrella header "Pods-RWSBounceButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
